@@ -1,0 +1,3 @@
+id_vehicule,marque,modele,annee_construction,categorie,motorisation,carburant,puissance_ch,boite_vitesse,couleur,kilometrage,prix_eur,pays_origine
+11,Audi,A3,2020,Berline,2.0 TDI,Diesel,150,Automatique,Gris,48000,24900,Allemagne
+12,Audi,Q5,2023,SUV,55 TFSI,Essence,367,Automatique,Noir,9000,68900,Allemagne

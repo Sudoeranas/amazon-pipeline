@@ -1,0 +1,3 @@
+id_vehicule,marque,modele,annee_construction,categorie,motorisation,carburant,puissance_ch,boite_vitesse,couleur,kilometrage,prix_eur,pays_origine
+1,Renault,Clio,2019,Citadine,1.5 dCi,Diesel,90,Manuelle,Rouge,85000,10900,France
+2,Renault,Megane,2021,Berline,1.3 TCe,Essence,140,Automatique,Noir,42000,18900,France
